@@ -10,4 +10,4 @@ A website that offers fitness training services.
 https://github.com/Havrushchenko/run-buddy.git
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Volodya
