@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Inc.
 ## Purpose
 A website that offers fitness training services.
 
@@ -11,3 +11,5 @@ https://github.com/Havrushchenko/run-buddy.git
 
 ## Contribution
 Made with ❤️ by Volodya
+
+### ©️2019 Run Buddy, Inc
